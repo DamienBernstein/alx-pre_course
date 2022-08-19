@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 #!/bin/bash
->>>>>>> Stashed changes
+echo "The school is open!"
 
