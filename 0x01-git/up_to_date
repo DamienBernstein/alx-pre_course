@@ -1,3 +1,3 @@
 #!/bin/bash 
-git branch -r
+git pull
 
